@@ -1,0 +1,19 @@
+## Visual Studio Çıktıları
+bin/
+obj/
+TestResults/
+publish/
+
+## Visual Studio Ayar ve Geçici Dosyaları
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+
+## Sistem ve Diğer Dosyalar
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.cache
+*.log
