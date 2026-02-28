@@ -1,0 +1,35 @@
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\deneme_veri.json
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.exe
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.deps.json
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.runtimeconfig.json
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.pdb
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.Form1.resources
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\refint\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.pdb
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\ref\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.DoubleBufferedForm.resources
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.Form1.resources
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.HCoreGraphForm.resources
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\refint\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.pdb
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.exe
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.deps.json
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.runtimeconfig.json
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.dll
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\bin\Debug\net10.0-windows\Makale_Analizi.pdb
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\Makale_Analizi.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Programlama lab-1\3. proje\Makale_Analizi\Makale_Analizi\obj\Debug\net10.0-windows\ref\Makale_Analizi.dll

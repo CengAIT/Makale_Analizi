@@ -1,0 +1,46 @@
+[
+  {
+    "id": "https://openalex.org/W1",
+    "doi": "https://doi.org/example.1",
+    "title": "Ana Makale (Merkez)",
+    "year": 2024,
+    "authors": [
+      "Ali Yilmaz",
+      "Ayse Demir"
+    ],
+    "venue": "Test Journal",
+    "keywords": ["Graph", "Test"],
+    "referenced_works": [], 
+    "in_json_reference_count": 0
+  },
+  {
+    "id": "https://openalex.org/W2",
+    "doi": "https://doi.org/example.2",
+    "title": "Atif Yapan Makale 1",
+    "year": 2025,
+    "authors": [
+      "Mehmet Ozturk"
+    ],
+    "venue": "Test Journal",
+    "keywords": ["Analysis"],
+    "referenced_works": [
+      "https://openalex.org/W1"
+    ],
+    "in_json_reference_count": 1
+  },
+  {
+    "id": "https://openalex.org/W3",
+    "doi": "https://doi.org/example.3",
+    "title": "Atif Yapan Makale 2",
+    "year": 2025,
+    "authors": [
+      "Zeynep Kaya"
+    ],
+    "venue": "Conference Proc",
+    "keywords": ["Computer Science"],
+    "referenced_works": [
+      "https://openalex.org/W1"
+    ],
+    "in_json_reference_count": 1
+  }
+]
